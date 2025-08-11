@@ -582,7 +582,7 @@ body {
 .projectItemRight img {
 
     height: 39px;
-    width: 39px;
+    width: 100%;
 
 }
 
